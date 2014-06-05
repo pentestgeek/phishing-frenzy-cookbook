@@ -1,11 +1,11 @@
 phishing-frenzy-cookbook
 ========================
 
-Automated install process for Phishing Frenzy# phishing-frenzy-cookbook-cookbook
+Automated install process for Phishing Frenzy using Chef
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+Debian 7.0
 
 ## Attributes
 
