@@ -1,6 +1,7 @@
-# phishing-frenzy-cookbook-cookbook
+phishing-frenzy-cookbook
+========================
 
-TODO: Enter the cookbook description here.
+Automated install process for Phishing Frenzy# phishing-frenzy-cookbook-cookbook
 
 ## Supported Platforms
 
