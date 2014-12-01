@@ -6,6 +6,7 @@ Automated install process for Phishing Frenzy using Chef
 ## Supported Platforms
 
 Debian 7.0
+Ubuntu 12.04
 
 ## Attributes
 
